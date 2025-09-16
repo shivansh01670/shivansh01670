@@ -73,8 +73,8 @@ A *personal portfolio* showcasing projects, skills, and achievements.
 
 ## 🌐 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivansh-palta/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:shivanshpalta.dev@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/shivansh-palta-12b189373/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:shivanshpalta@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
   <a href="https://github.com/shivanshpalta"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
 </p>
 
