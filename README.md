@@ -1,15 +1,13 @@
-<!-- Typing Animation Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Shivansh+Palta+👋;Full+Stack+Developer+%7C+DSA+Enthusiast+💻;Java+%26+C/C+++Lover+🔥;Turning+Ideas+Into+Reality+🌟" alt="Typing Animation">
 </p>
 
 ---
 
-<!-- Profile Views & Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivanshpalta&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shivanshpalta?label=Followers&style=for-the-badge" alt="followers badge"/>
-  <img src="https://img.shields.io/github/stars/shivanshpalta?label=Stars&style=for-the-badge" alt="stars badge"/>
+  <img src="https://komarev.com/ghpvc/?username=shivansh01670&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shivansh01670?label=Followers&style=for-the-badge" alt="followers badge"/>
+  <img src="https://img.shields.io/github/stars/shivansh01670?label=Stars&style=for-the-badge" alt="stars badge"/>
   <img src="https://img.shields.io/badge/Code%20With-Passion-ff69b4?style=for-the-badge" alt="Code With Passion badge"/>
 </p>
 
@@ -58,15 +56,15 @@ A *personal portfolio* showcasing projects, skills, and achievements.
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivanshpalta&theme=darkhub&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivansh01670&theme=darkhub&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanshpalta&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=00000000" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshpalta&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivansh01670&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=00000000" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh01670&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
@@ -75,7 +73,7 @@ A *personal portfolio* showcasing projects, skills, and achievements.
 <p align="center">
   <a href="https://www.linkedin.com/in/shivansh-palta-12b189373/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:shivanshpalta@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://github.com/shivanshpalta"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/shivansh01670"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
